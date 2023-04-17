@@ -1,0 +1,7 @@
+class hello 
+{
+               public void main()
+	       {
+	       system.out.print1n();
+	       }
+}	       
